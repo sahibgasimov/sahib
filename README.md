@@ -10,7 +10,7 @@ Devops Engineer | AWS Solution Architect |
 - 🔭 I’m currently DevOps Engineer at EvolveCyber Organization
 - 🌱 I’m currently learning cloud computing and devops tools
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sahib-gasimov/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sahibgasimov) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sahib-gasimov/)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sahibgasimov) 
 
  <hr>
  
