@@ -1,11 +1,11 @@
 ###                            Welcome to My GitHub Page 👋
 
 <p align="center">
-  <img src="https://github.com/MelekAlan/MelekAlan/blob/main/Aws-DevOps-Online-Training-1024x615.jpg">
+  <img src="https://www.saviantconsulting.com/images/blog/azure-vs-aws.jpg">
 </p>
 
 ### Sahib Gasimov
-Cloud Engineer | AWS Solution Architect | Azure Cloud Engineer
+Cloud Engineer | AWS and Azure Cloud Solutions Architect
 
 - 🔭 I’m currently Cloud Engineer
 - 🌱 I’m currently learning cloud computing and devops tools
